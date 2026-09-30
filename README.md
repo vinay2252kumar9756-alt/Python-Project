@@ -57,5 +57,4 @@ python filename.py
 
  ### Author
 ***Vinay kumar***
-GitHub: https://github.com/ayush893singhinay Kh***
-GitHub: https://github.com/ayush893singh
+GitHub: https: (https://github.com/vinay2252kumar9756-alt)
