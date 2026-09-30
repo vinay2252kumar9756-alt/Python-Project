@@ -1,7 +1,7 @@
 ### Python Projects Collection
 This repository contains multiple beginner-friendly Python projects to help you learn basic programming concepts in a practical way.
 
-** Projects Included **
+*** Projects Included ***
 ### Dice Game
 Random dice rolling game 
 Folder: Dice_Game
@@ -17,6 +17,8 @@ Folder: Number_Guessing
 ### QR Code Generator
 Generate QR codes using Python 
 Folder: QR_Generator
+
+###  TempCode Runner File
 
 ### How to Run
 Open terminal or command prompt and follow these steps:
